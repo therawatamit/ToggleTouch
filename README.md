@@ -1,3 +1,6 @@
+## Update
+No need to store toggletouch state file, automatically detected from toggletouch argument
+
 # ToggleTouch
 A linux program to enable/disable touch screens and other input devices. A single command for both enabling and disabling (toggling) is especially useful if used as a custom command for _hot-corners_ or other similar triggers.
 
